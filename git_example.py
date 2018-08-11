@@ -8,6 +8,7 @@ import numpy as np
 
 def sigmoid(x):
   # enter code below
+  dude we rock don't we ??
   return (1 / (1 + numpy.exp(-x)))
 
 def tanh(x):
